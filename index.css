@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto 40px;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+th {
+    border: 2px solid lightgreen;
+    padding: 10px;
+}
+
+hr {
+    border: 1px solid lightgreen;
+}
+
+td {
+    font-size: 20px;
+    background: lightgreen;
+    padding: 20px;
+}
+
+th,
+td {
+    border-radius: 10px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.eng {
+    background: lightblue;
+}
+
+.mat {
+    background: lightsalmon;
+}
+
+.che {
+    background: lightgrey;
+}
+
+.phy {
+    background: rgb(255, 255, 120);
+}
+
